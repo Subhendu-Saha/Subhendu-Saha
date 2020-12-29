@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
 I am Subhendu Saha. 
 Data Analyst with 1.5 years of experience interpreting and analyzing data in order to drive successfull business solutions. My aim is to provide the most insightful information in the form of a story to the decision-makers to satisfy business needs.
 
-## Technical Skills
+### Technical Skills
 
 • Programming Languages| Python(Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, SciPy and Statsmodels) |SQL | SAS
 • Expertise| Python, Machine Learning, Tableau - Data Cleaning, Data Analysis, and Data Visualization | IBM Certified

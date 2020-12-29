@@ -18,11 +18,3 @@ Skills:
 • Verification and Validation| Selenium, JIRA 
 
 • Process| Agile methodology
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
-

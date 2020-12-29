@@ -1,6 +1,6 @@
 ### Hi there 👋, Subhendu Saha
 #### Data Analyst | Data Visualization | Business Intelligence
-![Data Analyst | Data Visualization | Business Intelligence](https://public.tableau.com/profile/subhendu.saha#!/)
+![Data Analyst | Data Visualization | Business Intelligence](https://public.tableau.com/profile/subhedu.saha#!/)
 
 Data Analyst with 1.5 years of experience interpreting and analyzing data in order to drive successful business solutions. My aim is to provide the most insightful information in the form of a story to the decision-makers to satisfy business needs.
 

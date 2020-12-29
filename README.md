@@ -33,7 +33,7 @@ problem and extracted high-value customers based on customer demographics and at
 
 ### Technical Skills: 
 
-• Programming Languages| Python(Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, SciPy, and Statsmodels) |SQL | SAS
+• Python(Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, SciPy, and Statsmodels) |SQL | SAS     
 • Expertise| Python, Machine Learning, Tableau - Data Cleaning, Data Analysis, and Data Visualization | IBM Certified
 • BI tool| Tableau, Power BI • Visualization | Python - Matplotlib, Seaborn, Tableau, Power BI, GIS 
 • Database| MySQL, IBM DB2 on cloud 

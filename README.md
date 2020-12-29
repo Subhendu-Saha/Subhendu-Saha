@@ -12,7 +12,12 @@ Data Analyst with 1.5 years of experience interpreting and analyzing data in ord
 • BI tool| Tableau, Power BI
 
 • Visualization | Python - Matplotlib, Seaborn, Tableau, Power BI, GIS
+
 • Database| MySQL, IBM DB2 on cloud
+
 • Software and tools| Microsoft Office suite, MATLAB | UML | OCL | SAP Fieldglass VMS
+
 • Verification and Validation| Selenium, JIRA
+
 • Process| Agile methodology 
+

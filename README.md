@@ -35,7 +35,7 @@ problem and extracted high-value customers based on customer demographics and at
 
 • Python(Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, SciPy, and Statsmodels) |SQL | SAS     
 • Expertise| Python, Machine Learning, Tableau - Data Cleaning, Data Analysis, and Data Visualization | IBM Certified       
-• BI tool & Visualization| Tableau, Power BI, Python - Matplotlib, Seaborn, Tableau, Power BI, GIS                                
+• BI tool & Visualization| Tableau, Power BI, GIS, Python - Matplotlib, Seaborn                                                                            
 • Database| MySQL, IBM DB2 on cloud                                                                                                   
 • Software and tools| Microsoft Office suite, MATLAB | UML | OCL | SAP Fieldglass VMS                                                    
 • Verification and Validation| Selenium, JIRA                                                                                                   

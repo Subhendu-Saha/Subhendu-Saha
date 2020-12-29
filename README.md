@@ -6,7 +6,7 @@ Data Analyst with 1.5 years of experience interpreting and analyzing data in ord
 
 ## Experience
 
-Capgemini Technology Services India Limited 
+Capgemini Technology Services India Limited                                                                                                                     
 Data Analyst – Vendor Management System, Mumbai, India (Aug. 2017 - Nov. 2018)
 
 • Collecting Sub-Contractors data from the Finance Team of various regions like NAR, US, etc. and preparing and analyzing business transactions of contractors, and build reports based on the findings.

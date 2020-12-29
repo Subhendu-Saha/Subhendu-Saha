@@ -1,6 +1,6 @@
 ### Hi there 👋, Subhendu Saha
 #### Data Analyst | Data Visualization | Business Intelligence
-![Data Analyst | Data Visualization | Business Intelligence](https://github.com/Subhendu-Saha/Subhendu-Saha/blob/main/Capture2.PNG)
+![Data Analyst | Data Visualization | Business Intelligence](https://github.com/Subhendu-Saha/Subhendu-Saha/blob/main/Capture3.PNG)
 
 Data Analyst with 1.5 years of experience interpreting and analyzing data in order to drive successful business solutions. My aim is to provide the most insightful information in the form of a story to the decision-makers to satisfy business needs.
 
